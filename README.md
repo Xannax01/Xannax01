@@ -9,11 +9,11 @@
 - **SQL**  
 - **Java**
 - **Python** (Flask)
--  
+- **Javascript**
 
  **Herramientas y tecnologías:**  
 - **Git y GitHub** (Control de versiones)  
-- **Ofimática avanzada** (Excel, Word, etc.)  
+
 
  **Proyectos destacados:**  
 - **Código Culinario:** Página web de recetas categorizadas.    
